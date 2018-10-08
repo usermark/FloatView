@@ -1,6 +1,6 @@
 # FloatView
 
-![](screenshot.png)
+<img src="https://github.com/usermark/FloatView/raw/master/screenshot.png" height="400" alt="Sample app Screenshot" />
 
 ## Sample
 
