@@ -4,6 +4,12 @@
 
 <img src="https://github.com/usermark/FloatView/raw/master/screenshot.png" height="400" alt="Sample app Screenshot" />
 
+## Gradle
+
+```java
+compile 'com.github.usermark:FloatView:0.0.1'
+```
+
 ## Sample
 
 ```java
