@@ -1,5 +1,7 @@
 # FloatView
 
+[ ![Download](https://api.bintray.com/packages/trexcobras/maven/FloatView/images/download.svg) ](https://bintray.com/trexcobras/maven/FloatView/_latestVersion)
+
 <img src="https://github.com/usermark/FloatView/raw/master/screenshot.png" height="400" alt="Sample app Screenshot" />
 
 ## Sample

@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
 
 android {
     compileSdkVersion 27
@@ -7,7 +8,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
-        versionName "1.0"
+        versionName "0.0.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
 
@@ -18,6 +19,14 @@ android {
         }
     }
 
+}
+
+publish {
+    userOrg = 'trexcobras'
+    groupId = 'com.github.usermark'
+    artifactId = 'FloatView'
+    publishVersion = '0.0.1'
+    desc = 'Android library for floating view.'
 }
 
 dependencies {
